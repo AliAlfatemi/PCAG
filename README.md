@@ -1,2 +1,2 @@
 # PCAG  
-The main file is GrassMann_Fold_Total_Cleaning.m
+We have added introduction for the code, which is shown as follows: First, the data is called by BRCA function. Next, we normalized the data by z-score function, then we utilize the PCA technique to diminution reduction by pca_whit function. After that, we constructed the graphs for each data type via constructW function. Then, we created subspace representation construction and marging them on grassmann and used kmeans for clustering by sc_ml function. Finally, the last function displayClusters displays the clustering resultsing on the graph. 
