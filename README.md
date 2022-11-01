@@ -4,4 +4,4 @@ We have added introduction for the code, which is shown as follows: First, we no
 
 The main code: GrassMann_Fold_Total_Cleaning.m.
 
-Please, if you have any questions, do not hesitate to contact us by the following email: alfatemi2010@gmail.com.
+Please, if you have any questions, do not hesitate to contact us by the following email: alfatemi2010 at gmail
