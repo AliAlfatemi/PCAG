@@ -5,7 +5,7 @@ The main code: GrassMann_Fold_Total_Cleaning.m.
 Citing "Patient subgrouping with distinct survival rates via integration of multiomics data on a Grassmann manifold"
 
 If you use our work in your research and thank you so much for that, please use the following BibTeX entry.
-\cite{@article{alfatemi2022patient,
+###{@article{alfatemi2022patient,
   title={Patient subgrouping with distinct survival rates via integration of multiomics data on a Grassmann manifold},
   author={Alfatemi, Ali and Peng, Hong and Rong, Wentao and Zhang, Bin and Cai, Hongmin},
   journal={BMC medical informatics and decision making},
@@ -14,7 +14,7 @@ If you use our work in your research and thank you so much for that, please use 
   pages={1--9},
   year={2022},
   publisher={BioMed Central}
-}}
+}}###
 
 
 https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01938-y
