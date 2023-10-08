@@ -1,7 +1,19 @@
-# PCAG  
-We have added introduction for the code, which is shown as follows: First, we normalized the data, then we utilize the PCA technique to diminution reduction. After that, we constructed the graphs for each data type. Then, We projected all the graphs into low-dimensional subspaces and obtained their associated embedding in these spaces and marging them on grassmann and used K-means algorithm for clustering.  
-The main code: GrassMann_Fold_Total_Cleaning.m.
+# Patient Subgrouping using Multiomics Data on Grassmann Manifold
 
-Thank you so much for citing our work:
-https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01938-y
+## Description:
+A comprehensive approach to identifying patient subgroups with distinct survival rates by leveraging multiomics datasets, namely, microRNA, gene expression, and DNA methylation. This project showcases:
 
+- Integration of heterogeneous big data into intrinsic structures.
+- Dimensionality reduction via PCA.
+- Graph construction for patient data.
+- Data embedding using the Grassmann manifold for patient clustering.
+- Extensive testing on datasets from The Cancer Genome Atlas (TCGA).
+
+By integrating these varied datasets on a Grassmann manifold, our method outperforms conventional methods in clustering accuracy and survival rate prediction, paving the way for precise and personalized medical treatments.
+
+## Keywords:
+Multiomics, Grassmann Manifold, Patient Subgrouping, PCA, Data Integration, The Cancer Genome Atlas, Survival Rates, Clustering, Dimensionality Reduction.
+
+## Cite Our Work:
+If you find this work beneficial and utilize it in your research, please cite our original article:
+[Patient subgrouping with distinct survival rates via integration of multiomics data on a Grassmann manifold](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01938-y).
