@@ -12,7 +12,7 @@ A comprehensive approach to identifying patient subgroups with distinct survival
 By integrating these varied datasets on a Grassmann manifold, our method outperforms conventional methods in clustering accuracy and survival rate prediction, paving the way for precise and personalized medical treatments.
 
 ## Keywords:
-Multiomics, Grassmann Manifold, Patient Subgrouping, PCA, Data Integration, The Cancer Genome Atlas, Survival Rates, Clustering, Dimensionality Reduction.
+Multi-omics, Cancer Subtype, Graphs,  Grassmann Manifold, Patient Subgrouping, PCA, Data Integration, The Cancer Genome Atlas, Survival Rates, Clustering, Dimensionality Reduction.
 
 ## Cite Our Work:
 If you find this work beneficial and utilize it in your research, please cite our original article:
