@@ -8,6 +8,8 @@ The workflow integrates gene expression, DNA methylation, and microRNA views.
 
 **Authors:** Ali Alfatemi, Hong Peng, Wentao Rong, Bin Zhang, Hongmin Cai
 
+**Publication:** BMC Medical Informatics and Decision Making, volume 22, article 190 (2022).
+
 ## Workflow
 
 1. Align patients across the three omics matrices.
